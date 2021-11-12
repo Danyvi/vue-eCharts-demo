@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <h1>Vue eCharts Demo</h1>
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld />
   </div>
 </template>
 
